@@ -50,7 +50,7 @@ If you are interested in discussing this project or other collaboration opportun
   
 ## 🚀 Project Status
 
-The app is currently in the **Closed Testing** phase on the Google Play Console with **20+ active testers**. This project covers the entire app development lifecycle, from UI design and backend feature development to compliance with Google Play policies (Data Safety & Child Safety Standards).
+get it on play store: https://play.google.com/store/apps/details?id=com.indodabu.dabu
 
 ---
 
